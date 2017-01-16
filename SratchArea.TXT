@@ -1,0 +1,19 @@
+General Notes and Scratch information
+
+=ROUNDDOWN(SUM(A6-10)/2,0)
+
+STR $Main.C6
+Dex $Main.C9
+Con $Main.C12
+Int $Main.C15
+Wis $Main.C18
+Cha $Main.C21
+
+=INT(C15)
+=WIS(C18)
+=CHA(C21)
+
+IFERROR(SUM(Main.B23+Main.J5+8);0)
+
+=SUM($Main.B23)
+=SUM($Equipment.C25
