@@ -1,0 +1,33 @@
+This sheet has a number of custom macros, Mainly to make some of the data validity based dropdowns easier to read what your selection is.
+
+Function STR(Attrib)
+    STR = Attrib
+End Function
+
+Function CON(Attrib)
+    CON = Attrib
+End Function
+
+Function Dex(Attrib)
+    Dex = Attrib
+End Function
+
+Function INT(Attrib)
+    INT = Attrib
+End Function
+
+Function WIS(Attrib)
+    WIS = Attrib
+End Function
+
+Function CHA(Attrib)
+    CHA = Attrib
+End Function
+
+Function PROF(Proficiency)
+    PROF = Proficiency
+End Function
+
+Function EXPRT(Proficiency)
+    EXPRT = Proficiency
+End Function
